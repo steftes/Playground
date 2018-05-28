@@ -29,5 +29,8 @@
     <ClCompile Include="Playground.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HAHAHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
